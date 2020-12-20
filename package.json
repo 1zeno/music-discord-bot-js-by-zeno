@@ -1,0 +1,8 @@
+{
+    "dependencies": {
+      "discord.js": "^12.5.1",
+      "opusscript": "^0.0.7",
+      "puppeteer": "^5.5.0",
+      "ytdl-core": "^4.2.1"
+    }
+  }
