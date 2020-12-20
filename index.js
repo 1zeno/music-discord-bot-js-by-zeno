@@ -119,7 +119,7 @@ bot.on("message", message => {
                     for(let i = serverStop.queue.length -1; i>= 0; i--){
                         serverStop.queue.split(i, 1);
                     }
-                    message.channel.send("End of list. I'm leaving of voice channel.");
+                    message.channel.send("End of list. I'm leaving.");
                     serverStop.dispatcher.end()
                 }
             }else{
