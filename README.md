@@ -10,4 +10,10 @@
 
 ## FFMPEG
 
+### https://ffmpeg.org
+
 ### I recommend some video to install ffmpeg: https://www.youtube.com/watch?v=r1AtmY-RMyQ or https://www.youtube.com/watch?v=qjtmgCb8NcE
+
+### Create a file "token.json" and insert your bot token inside.
+
+## ENJOY!
